@@ -1,0 +1,19 @@
+
+.map-container {
+    text-align: center;
+}
+
+.map {
+    position: relative;
+    display: inline-block;
+}
+
+svg {
+    background-color: white;
+}
+
+h3 {
+    text-align: center;
+    color: #333;
+    font-size: 18px;
+}
