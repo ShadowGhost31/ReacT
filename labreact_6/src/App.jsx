@@ -1,4 +1,4 @@
-import React, { Suspense, lazy } from 'react';
+import  { Suspense, lazy } from 'react';
 import { TodoProvider } from './contexts/TodoContext';
 import { GlobalStyles } from './styles/globalStyles';
 import ErrorBoundary from './components/ErrorBoundary';
